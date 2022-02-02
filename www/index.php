@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=oklahoma-vip&client_id=6f717024a86e849d171852fb5219accd" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=oklahoma-vip&client_id=2379f51520b2729b62af204010992cc7" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
