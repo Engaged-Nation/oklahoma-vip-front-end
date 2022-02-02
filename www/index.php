@@ -1,9 +1,9 @@
-<?php require_once __DIR__ . '/../../grandtraverse-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
+<?php require_once __DIR__ . '/../../oklahoma-vip-portal/vendor/engaged-nation/portal-core/FrontEnd/Bootstrap/client-front-end.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <title>VIP Preferred Rewards</title>
-    <?php require_once __DIR__ . '/../../grandtraverse-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
+    <?php require_once __DIR__ . '/../../oklahoma-vip-portal/vendor/engaged-nation/portal-core/GoogleTagManager/Resources/public/gtm.php'; ?>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=0">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="description" content="" />
@@ -48,7 +48,7 @@
         </div>
     </div>
 
-    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=grandtraverse&client_id=079e124ac6be5b2058948506f20af0f7" type="text/javascript"></script>
+    <script src="//<?php echo $enConfigClient['environment']['site_portal']; ?>/lib/js/engage.php?client_name=oklahoma-vip&client_id=6f717024a86e849d171852fb5219accd" type="text/javascript"></script>
 
     <div id="en-footer-layout-container"></div>
 
